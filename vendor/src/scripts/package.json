@@ -1,0 +1,16 @@
+{
+  "name": "Car-Pooling",
+  "version": "0.0.1",
+  "descriptions": "A website to help people in Car Pooling",
+  "contributors": [{
+    "name": "Kavish Dwivedi",
+    "email": "dwivedikavish@gmail.com"
+  }],
+  "license": "MIT",
+  "devDependencies": {
+    "requirejs": "~2.1.18"
+  },
+  "dependencies": {
+    "bower": "~1.4.1"
+  }
+}
